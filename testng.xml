@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test name="Login Test">
+    <classes>
+      <class name="testcases.LoginTest"/>
+    </classes>
+  </test>
+</suite>
