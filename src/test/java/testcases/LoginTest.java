@@ -25,7 +25,7 @@ public class LoginTest extends BaseTest {
 	        // Assertion to verify title
 	        Assert.assertEquals(actualTitle, expectedTitle, "Login failed or unexpected page title.");
 	        
-	      //Changes for test
+	      //Changes for test 2
 	    }
 }
 
