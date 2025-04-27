@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-08T20:57:48 IST" name="Default suite" finished-at="2025-04-08T20:58:05 IST" duration-ms="17929">
+  <suite started-at="2025-04-17T20:13:25 IST" name="Default suite" finished-at="2025-04-17T20:13:34 IST" duration-ms="8732">
     <groups>
     </groups>
-    <test started-at="2025-04-08T20:57:48 IST" name="Default test" finished-at="2025-04-08T20:58:05 IST" duration-ms="17929">
+    <test started-at="2025-04-17T20:13:25 IST" name="Default test" finished-at="2025-04-17T20:13:34 IST" duration-ms="8732">
       <class name="testcases.LoginTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.LoginTest@2a4fb17b]" started-at="2025-04-08T20:57:48 IST" name="setUp" finished-at="2025-04-08T20:58:00 IST" duration-ms="12564" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.LoginTest@2a4fb17b]" started-at="2025-04-17T20:13:25 IST" name="setUp" finished-at="2025-04-17T20:13:31 IST" duration-ms="5455" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginWithExcelData()[pri:0, instance:testcases.LoginTest@2a4fb17b]" started-at="2025-04-08T20:58:00 IST" name="loginWithExcelData" finished-at="2025-04-08T20:58:05 IST" duration-ms="5331" status="PASS">
+        <test-method signature="loginWithExcelData()[pri:0, instance:testcases.LoginTest@2a4fb17b]" started-at="2025-04-17T20:13:31 IST" name="loginWithExcelData" finished-at="2025-04-17T20:13:34 IST" duration-ms="3242" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginWithExcelData -->
