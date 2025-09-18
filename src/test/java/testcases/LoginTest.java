@@ -5,6 +5,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import Base.BaseTest;
 import page_object_model.LoginPage;
+import page_object_model.PIMpage;
 
 public class LoginTest extends BaseTest {
 
@@ -24,8 +25,8 @@ public class LoginTest extends BaseTest {
 	        String expectedTitle = "OrangeHRM";
 	        // Assertion to verify title
 	        Assert.assertEquals(actualTitle, expectedTitle, "Login failed or unexpected page title.");
-	        
-	      //Changes for test 2
+	        PIMpage PIM = new PIMpage(driver);
+	        PIM.ClickPIMButton();
 	    }
 }
 
